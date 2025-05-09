@@ -30,4 +30,8 @@ Using Microsoft Excel, i had to properly check for the data type of the dataset.
 ## 5.0 - Data Visualization.
 Uisng Micrsoft Excel, i used the Pivot Table fucntion to extract important summaries which was necessary for the analysis. I also customized the pivot table by adding slicer which would affect everything on the table for the sake of interactivity. 
 
+![](Fin1.png)
+
+![](Fin2.png)
+
 
