@@ -12,8 +12,6 @@ This contains a Personal Finance Dashboard that was inspired under the tutoring 
 
 5.0 - Data Visualization
 
-6.0 - Insights Gotten
-
 
 ## 1.0 - Introdution 
 This is a personal finance dahsboard that was created with the use of Microsoft Excel for cleaning and visualization with the aid of arranging a dashboard. It showed the versatility and the advanced uses of Microsoft Excel as a whole. A group of colleague participated in it and i decided to hop on it also. The originator behind this dashboard was Mr Freedom Oboh. 
